@@ -1029,7 +1029,10 @@ body {
   }
 
   .crfour img {
+    height: 200px;
+    width: 200px;
   }
+
 
   .bookpricing {
     font-size: 14px;
