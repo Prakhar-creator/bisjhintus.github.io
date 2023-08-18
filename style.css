@@ -10,7 +10,6 @@ a {
 /* This will reapply the underline and color for unvisited links */
 a:hover {
   text-decoration: none; /* Add underline on hover */
-  color: #0C9DB3; /* Change color to your desired color */
 }
 
 /* This will remove the underline and change the color of visited links */
